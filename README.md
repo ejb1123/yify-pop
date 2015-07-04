@@ -5,9 +5,9 @@ Inspired by popcorn-app, a node web server to stream torrents from yify. Built u
 
 Requirements
 ------------
-***Node 0.10.16***
+***Node***
 
-Install from http://nodejs.org/ or use https://github.com/creationix/nvm
+Install from http://nodejs.org/ 
 
 ***Geddy 0.12.x***
 
